@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/andris9/nodemailer-html-to-text",
   "dependencies": {
-    "html-to-text": "git+ssh://git@github.com:duanefields/node-html-to-text.git"
+    "html-to-text": "git+https://github.com/duanefields/node-html-to-text.git"
   },
   "devDependencies": {
     "chai": "~3.5.0",
