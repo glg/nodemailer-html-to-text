@@ -17,7 +17,6 @@
     "Nodemailer"
   ],
   "author": "Source code moved from Duane's repo",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/glg/nodemailer-html-to-text/issues"
   },
