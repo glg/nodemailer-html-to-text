@@ -11,19 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andris9/nodemailer-html-to-text.git"
+    "url": "git://github.com/glg/nodemailer-html-to-text.git"
   },
   "keywords": [
     "Nodemailer"
   ],
-  "author": "Andris Reinman",
-  "license": "MIT",
+  "author": "Source code moved from Duane's repo",
   "bugs": {
-    "url": "https://github.com/andris9/nodemailer-html-to-text/issues"
+    "url": "https://github.com/glg/nodemailer-html-to-text/issues"
   },
-  "homepage": "https://github.com/andris9/nodemailer-html-to-text",
+  "homepage": "https://github.com/glg/nodemailer-html-to-text",
   "dependencies": {
-    "html-to-text": "git+ssh://git@github.com:duanefields/node-html-to-text.git"
+    "html-to-text": "git+ssh://git@github.com:glg/node-html-to-text-1.git"
   },
   "devDependencies": {
     "chai": "~3.5.0",
