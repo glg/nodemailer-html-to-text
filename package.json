@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/glg/nodemailer-html-to-text",
   "dependencies": {
-    "html-to-text": "git+ssh://git@github.com:glg/node-html-to-text-1.git"
+    "html-to-text": "git+ssh://git@github.com:glg/node-html-to-text-1.git#main"
   },
   "devDependencies": {
     "chai": "~3.5.0",
